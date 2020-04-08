@@ -1,0 +1,30 @@
+\frametitle{Future Work}
+
+\vspace{-3ex}
+\begin{itemize}
+	\item Bayesian cubature with higher order nets and smoother kernels, control variates
+	
+	\item Stopping criteria for multilevel and multivariate decomposition methods
+	
+	\item Community QMC software that \alert{combines the efforts of several research groups}
+	\begin{itemize}
+		\item Skeleton with clearly defined properties for different kinds of objects
+		
+		\item Plug-and-play functionality
+		
+		\vspace{-2ex}
+		
+	
+		\lstinputlisting{Programs/IntegrationExample.m}
+		
+		\begin{alltt}
+			>> IntegrationExample
+			sol =
+			0.428567222603452
+			sol =
+			0.425203913946775
+		\end{alltt}
+		
+	\end{itemize}
+	
+\end{itemize}

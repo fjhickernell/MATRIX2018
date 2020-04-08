@@ -1,0 +1,4 @@
+1\text{E}{-}2 & \text{IID} & \text{diff} & 2\text{E}{-}3 & 100\% & 6.1\text{E}7 & 33.000 \\
+1\text{E}{-}2 & \text{Scr.\ Sobol'} & \text{PCA} & 1\text{E}{-}3 & 100\% & 1.6\text{E}4 & 0.040 \\
+1\text{E}{-}2 & \text{Scr.\ Sob.\ cont.\ var.} & \text{PCA} & 2\text{E}{-}3 &  100 \% & 4.1\text{E}3 & 0.019 \\
+1\text{E}{-}2 & \text{Bayes.\ Latt.} & \text{PCA} & 2\text{E}{-}3 &  99\% & 1.6\text{E}4 & 0.051 \\

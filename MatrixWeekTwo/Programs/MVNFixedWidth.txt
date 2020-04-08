@@ -1,0 +1,17 @@
+\only<1>{
+1\text{E}{-}2 & \text{IID} & 5\text{E}{-}4 & 100\% & 8.1\text{E}4 & 0.020 \\
+1\text{E}{-}2 & \text{Sh.\ Latt.} & 1\text{E}{-}5 & 100\% & 1.0\text{E}3 & 0.004 \\
+1\text{E}{-}2 & \text{Scr.\ Sobol'} & 4\text{E}{-}5 & 100\% & 1.0\text{E}3 & 0.005 \\
+1\text{E}{-}2 & \text{Bayes.\ Latt.} & 1\text{E}{-}5 & 100\% & 1.0\text{E}3 & 0.002
+}
+\only<2>{
+1\text{E}{-}3 & \text{IID} & 9\text{E}{-}5 & 100\% & 2.0\text{E}6 & 0.400 \\
+1\text{E}{-}3 & \text{Sh.\ Latt.} & 8\text{E}{-}6 & 100\% & 2.0\text{E}3 & 0.007 \\
+1\text{E}{-}3 & \text{Scr.\ Sobol'} & 2\text{E}{-}5 & 100\% & 2.0\text{E}3 & 0.006 \\
+1\text{E}{-}3 & \text{Bayes.\ Latt.} & 1\text{E}{-}5 & 100\% & 1.0\text{E}3 & 0.002
+}
+\only<3>{
+1\text{E}{-}4 & \text{Sh.\ Latt.} & 4\text{E}{-}7 & 100\% & 8.2\text{E}3 & 0.014 \\
+1\text{E}{-}4 & \text{Scr.\ Sobol'} & 4\text{E}{-}7 & 100\% & 1.6\text{E}4 & 0.018 \\
+1\text{E}{-}4 & \text{Bayes.\ Latt.} & 5\text{E}{-}7 & 100\% & 8.2\text{E}3 & 0.010
+}

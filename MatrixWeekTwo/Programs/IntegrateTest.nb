@@ -1,0 +1,116 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3088,        106]
+NotebookOptionsPosition[      2400,         84]
+NotebookOutlinePosition[      2789,        101]
+CellTagsIndexPosition[      2746,         98]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"f", "[", 
+   RowBox[{"x_", ",", "a_", ",", "b_"}], "]"}], " ", "=", " ", 
+  RowBox[{"Exp", "[", 
+   RowBox[{"-", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{"b", "*", 
+       RowBox[{"(", 
+        RowBox[{"x", "-", "a"}], ")"}]}], ")"}], "^", "2"}]}], "]"}], 
+  " "}]], "Input",
+ CellChangeTimes->{{3.737428946128368*^9, 3.737428976683941*^9}, {
+  3.737429041783464*^9, 3.7374290441054792`*^9}, {3.737429125158135*^9, 
+  3.737429128801263*^9}},ExpressionUUID->"090a1e72-ed65-4c5d-8934-\
+1eaca59bcc48"],
+
+Cell[BoxData[
+ SuperscriptBox["\[ExponentialE]", 
+  RowBox[{
+   RowBox[{"-", 
+    SuperscriptBox["b", "2"]}], " ", 
+   SuperscriptBox[
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"-", "a"}], "+", "x"}], ")"}], "2"]}]]], "Output",
+ CellChangeTimes->{3.737428983959311*^9, 3.737429044598154*^9, 
+  3.737429129275507*^9},ExpressionUUID->"ec356ef4-fab9-4f72-a05c-\
+e8d285977b8b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"intF", " ", "=", " ", 
+  RowBox[{"Integrate", " ", "[", 
+   RowBox[{
+    RowBox[{"f", "[", 
+     RowBox[{"x", ",", "a", ",", "b"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0", ",", "1"}], "}"}]}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.7374289890489607`*^9, 
+  3.7374290288805037`*^9}},ExpressionUUID->"04532ee1-4fbe-4fd3-ad8b-\
+6090c93bb535"],
+
+Cell[BoxData[
+ FractionBox[
+  RowBox[{
+   SqrtBox["\[Pi]"], " ", 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{"Erf", "[", 
+      RowBox[{"a", " ", "b"}], "]"}], "+", 
+     RowBox[{"Erf", "[", 
+      RowBox[{"b", "-", 
+       RowBox[{"a", " ", "b"}]}], "]"}]}], ")"}]}], 
+  RowBox[{"2", " ", "b"}]]], "Output",
+ CellChangeTimes->{{3.7374290298764753`*^9, 3.7374290471920033`*^9}, 
+   3.737429132269452*^9},ExpressionUUID->"671b8093-1678-4cbd-9d9e-\
+b61f1f64b776"]
+}, Open  ]]
+},
+WindowSize->{1004, 913},
+WindowMargins->{{Automatic, 22}, {Automatic, 3}},
+Magnification:>1.5 Inherited,
+FrontEndVersion->"11.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
+10, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 539, 15, 46, "Input",ExpressionUUID->"090a1e72-ed65-4c5d-8934-1eaca59bcc48"],
+Cell[1122, 39, 377, 11, 57, "Output",ExpressionUUID->"ec356ef4-fab9-4f72-a05c-e8d285977b8b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1536, 55, 384, 10, 46, "Input",ExpressionUUID->"04532ee1-4fbe-4fd3-ad8b-6090c93bb535"],
+Cell[1923, 67, 461, 14, 109, "Output",ExpressionUUID->"671b8093-1678-4cbd-9d9e-b61f1f64b776"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

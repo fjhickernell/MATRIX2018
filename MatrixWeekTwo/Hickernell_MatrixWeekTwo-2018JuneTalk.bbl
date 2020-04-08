@@ -1,0 +1,390 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\preamble{%
+\def\Ignore#1{}%
+\def\notesupp#1{}%
+\providecommand{\HickernellFJ}{Hickernell\xspace}%
+}
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{HicEtal14a}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dd93a3d8cb0674566ffec0012593f164}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4e51e929a895845ed2d4e7187f9e6c87}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=7902db7adb4dcd603313137ab07318a1}{%
+           family={Dick},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e139531ee615ef460997ac5693c4bda1}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={F.\bibnamedelimi Y.},
+           giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=bbbb5304c5868aa553b4770d546c374b}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=728fd2392b012e0e32e12be610208abd}{%
+           family={Sloan},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag, Berlin}%
+      }
+      \strng{namehash}{d55adc44276d768941abf4a1a460bf25}
+      \strng{fullhash}{2206e084283e56833a0b9df9651f6589}
+      \strng{bibnamehash}{2206e084283e56833a0b9df9651f6589}
+      \strng{authorbibnamehash}{2206e084283e56833a0b9df9651f6589}
+      \strng{authornamehash}{d55adc44276d768941abf4a1a460bf25}
+      \strng{authorfullhash}{2206e084283e56833a0b9df9651f6589}
+      \strng{editorbibnamehash}{383ed483581cfc7fe6c485db3ffa7c43}
+      \strng{editornamehash}{d8db5e98353338e3874dd65ac50f3145}
+      \strng{editorfullhash}{383ed483581cfc7fe6c485db3ffa7c43}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{M}onte {C}arlo and Quasi-{M}onte {C}arlo Methods 2012}
+      \field{series}{Springer Proceedings in Mathematics and Statistics}
+      \field{title}{Guaranteed Conservative Fixed Width Confidence Intervals Via {M}onte {C}arlo Sampling}
+      \field{volume}{65}
+      \field{year}{2013}
+      \field{pages}{105\bibrangedash 128}
+      \range{pages}{24}
+    \endentry
+    \entry{HicJim16a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e059b93edc118c8830ef81df5f5f02cb}{%
+           family={{Ll. A. Jiménez Rugama}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5763f09c5833bbe7ab34147fae399d0c}{%
+           family={Cools},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f7e55805cddc6ff1020182b554966212}{%
+           family={Nuyens},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag, Berlin}%
+      }
+      \strng{namehash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{fullhash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{bibnamehash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{authorbibnamehash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{authornamehash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{authorfullhash}{86ef8238a53b6a0e0fd03877bc2d628e}
+      \strng{editorbibnamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editornamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editorfullhash}{6057e3bd454c4bd491178b214c57b8fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{M}onte {C}arlo and Quasi-{M}onte {C}arlo Methods: {MCQMC}, {L}euven, {B}elgium, {A}pril 2014}
+      \strng{crossref}{CooNuy16a}
+      \field{note}{arXiv:1410.8615 [math.NA]}
+      \field{series}{Springer Proceedings in Mathematics and Statistics}
+      \field{title}{Reliable Adaptive Cubature Using Digital Sequences}
+      \field{volume}{163}
+      \field{year}{2016}
+      \field{pages}{367\bibrangedash 383}
+      \range{pages}{17}
+    \endentry
+    \entry{JimHic16a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=e059b93edc118c8830ef81df5f5f02cb}{%
+           family={{Ll. A. Jiménez Rugama}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5763f09c5833bbe7ab34147fae399d0c}{%
+           family={Cools},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f7e55805cddc6ff1020182b554966212}{%
+           family={Nuyens},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag, Berlin}%
+      }
+      \strng{namehash}{368728ed70a576114d5f46681ae79a30}
+      \strng{fullhash}{368728ed70a576114d5f46681ae79a30}
+      \strng{bibnamehash}{368728ed70a576114d5f46681ae79a30}
+      \strng{authorbibnamehash}{368728ed70a576114d5f46681ae79a30}
+      \strng{authornamehash}{368728ed70a576114d5f46681ae79a30}
+      \strng{authorfullhash}{368728ed70a576114d5f46681ae79a30}
+      \strng{editorbibnamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editornamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editorfullhash}{6057e3bd454c4bd491178b214c57b8fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{M}onte {C}arlo and Quasi-{M}onte {C}arlo Methods: {MCQMC}, {L}euven, {B}elgium, {A}pril 2014}
+      \strng{crossref}{CooNuy16a}
+      \field{note}{arXiv:1411.1966}
+      \field{series}{Springer Proceedings in Mathematics and Statistics}
+      \field{title}{Adaptive Multidimensional Integration Based on Rank-1 Lattices}
+      \field{volume}{163}
+      \field{year}{2016}
+      \field{pages}{407\bibrangedash 422}
+      \range{pages}{16}
+    \endentry
+    \entry{HicEtal17a}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=44704708c5c78ac7f81930551cec1808}{%
+           family={{Jiménez Rugama, Ll. A.}},
+           familyi={J\bibinitperiod}}}%
+        {{hash=f500b28664aeb848c9f9a86092e9e379}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=7902db7adb4dcd603313137ab07318a1}{%
+           family={Dick},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e139531ee615ef460997ac5693c4bda1}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={F.\bibnamedelimi Y.},
+           giveni={F\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=88fdb660f704e31653bbe5b76bca397c}{%
+           family={Woźniakowski},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{d55adc44276d768941abf4a1a460bf25}
+      \strng{fullhash}{e3e112dded93f0486e453078bab1da03}
+      \strng{bibnamehash}{e3e112dded93f0486e453078bab1da03}
+      \strng{authorbibnamehash}{e3e112dded93f0486e453078bab1da03}
+      \strng{authornamehash}{d55adc44276d768941abf4a1a460bf25}
+      \strng{authorfullhash}{e3e112dded93f0486e453078bab1da03}
+      \strng{editorbibnamehash}{95adebbc7832844a3c79ed3ddce65222}
+      \strng{editornamehash}{d8db5e98353338e3874dd65ac50f3145}
+      \strng{editorfullhash}{95adebbc7832844a3c79ed3ddce65222}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Contemporary Computational Mathematics --- a celebration of the 80th birthday of {I}an {S}loan}
+      \field{title}{Adaptive Quasi-{M}onte {C}arlo Methods for Cubature}
+      \field{year}{2018}
+      \field{pages}{597\bibrangedash 619}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-319-72456-0
+      \endverb
+    \endentry
+    \entry{RatHic19a}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=601d1d07076812c7d437beac63ff8716}{%
+           family={Jagadeeswaran},
+           familyi={J\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc65c296651fc85634f2244cc680f494}
+      \strng{fullhash}{cc65c296651fc85634f2244cc680f494}
+      \strng{bibnamehash}{cc65c296651fc85634f2244cc680f494}
+      \strng{authorbibnamehash}{cc65c296651fc85634f2244cc680f494}
+      \strng{authornamehash}{cc65c296651fc85634f2244cc680f494}
+      \strng{authorfullhash}{cc65c296651fc85634f2244cc680f494}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{in preparation}
+      \field{title}{Automatic {B}ayesian Cubature}
+      \field{year}{2018+}
+    \endentry
+    \entry{ChoEtal17b}{misc}{}
+      \name{author}{11}{}{%
+        {{hash=194584122b712d60f3b77402b85186db}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={S.-C.\bibnamedelimi T.},
+           giveni={S\bibinithyphendelim C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b395c6b81facb01ba015775bd495e50f}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=16a25a7a61adc0c60741243be393c327}{%
+           family={\HickernellFJ},
+           familyi={\\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dd93a3d8cb0674566ffec0012593f164}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=afdae92a1ad4cb7fca2d31c7c2613910}{%
+           family={{Ll . A. Jiménez Rugama}},
+           familyi={L\bibinitperiod}}}%
+        {{hash=f500b28664aeb848c9f9a86092e9e379}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=601d1d07076812c7d437beac63ff8716}{%
+           family={Jagadeeswaran},
+           familyi={J\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b78d21388a102c7f5669e66c4780086c}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c8f8faf86fcdef2936ccf34aa42287ec}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=95a281ba3b1fbf7b222b10f7711f11b0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=04b93a6da890ec1eb698912d7fb6c88e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d4723f37fdd630533ddebaccd730fe9}
+      \strng{fullhash}{62dc6e4d21583be2322ae91a84190b25}
+      \strng{bibnamehash}{2d4723f37fdd630533ddebaccd730fe9}
+      \strng{authorbibnamehash}{2d4723f37fdd630533ddebaccd730fe9}
+      \strng{authornamehash}{2d4723f37fdd630533ddebaccd730fe9}
+      \strng{authorfullhash}{62dc6e4d21583be2322ae91a84190b25}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{MATLAB software}
+      \field{title}{{GAIL}: {G}uaranteed {A}utomatic {I}ntegration {L}ibrary (Versions 1.0--2.2)}
+      \field{year}{{2013--2017}}
+      \verb{urlraw}
+      \verb http://gailgithub.github.io/GAIL_Dev/
+      \endverb
+      \verb{url}
+      \verb http://gailgithub.github.io/GAIL_Dev/
+      \endverb
+    \endentry
+    \entry{CooNuy16a}{proceedings}{}
+      \name{editor}{2}{}{%
+        {{hash=5763f09c5833bbe7ab34147fae399d0c}{%
+           family={Cools},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f7e55805cddc6ff1020182b554966212}{%
+           family={Nuyens},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag, Berlin}%
+      }
+      \strng{namehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{fullhash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{bibnamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editorbibnamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editornamehash}{6057e3bd454c4bd491178b214c57b8fc}
+      \strng{editorfullhash}{6057e3bd454c4bd491178b214c57b8fc}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{M}onte {C}arlo and Quasi-{M}onte {C}arlo Methods: {MCQMC}, {L}euven, {B}elgium, {A}pril 2014}
+      \field{series}{Springer Proceedings in Mathematics and Statistics}
+      \field{title}{{M}onte {C}arlo and Quasi-{M}onte {C}arlo Methods: {MCQMC}, {L}euven, {B}elgium, {A}pril 2014}
+      \field{volume}{163}
+      \field{year}{2016}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
